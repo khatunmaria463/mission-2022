@@ -1,0 +1,224 @@
+body {
+    font-family: 'Libre Baskerville';
+}
+h1 {
+    font-size: 50px;
+}
+
+p{font-size: 14px}
+.parent {
+    display: flex;
+    width: 80%;
+    margin: auto;
+        margin-top: auto;
+    margin-top: 200px;
+}
+.left {
+    font-size: 30px;
+}
+
+.border {
+    border-left: 5px solid rgb(255, 127, 176);
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.margin {
+    margin-right: 200px;
+}
+
+.mr-top {
+    margin-top: 50px;
+}
+
+.pragraph-add {
+    margin-top: 50px;
+}
+.photo img {
+    width: 400px;
+}
+
+
+.my-mission{
+    font-size: 40px;
+    text-align: center;
+    color:red;
+}
+
+
+.mission-area{
+    display: flex;
+    width: 80%;
+    margin: 0 120px 0 120px;
+}
+
+.mission-area .mission{
+    width: 100%;
+    background-color:#edf5f6;
+    margin: 20px;
+    padding: 5%;
+    border-radius: 20px;
+  
+}
+
+.mission-area .vission{
+    width: 100%;
+    background-color:#ffeeee;
+    margin: 20px;
+    padding: 5%;
+    border-radius: 20px;
+   
+}
+
+.mission-area .goals{
+    width: 100%;
+    background-color:#fff4d6;
+    margin: 20px;
+    padding: 5%;
+    border-radius: 20px;
+}
+
+.mission-area .mission img {
+    width: 60%;
+    float: left;
+}
+
+.mission-area .vission img {
+    width: 70%;
+    float: left;
+}
+
+
+
+.mission-area .goals img {
+    width: 81%;
+    float: left;
+}
+
+
+
+.click-btn {
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    border: none;
+    text-decoration: none;
+	font-size: 15px;
+	
+}
+
+
+.green-color{color:green}
+
+.last {
+
+    text-align: center;
+    margin-top: 150px;
+    background-color: black;
+    height: 200px;
+}
+
+#white {
+    color: white;
+}
+
+.color {
+    color: sienna;
+}
+
+.third-section {
+    display: flex;
+    width: 80%;
+    margin-top: 130px;
+}
+.image-set img {
+    width: 70%;
+    margin-left: 160px;
+}
+
+.mr-top {
+    margin-top: 50px;
+}
+
+
+
+.second-section{
+    margin-bottom: 92px;
+}
+.second-parent{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.left-image{
+    width: 227%;
+}
+
+.right-image{
+    width: 100%;
+}
+.left-side{
+    width: 14%;
+    margin-top: 120px;
+}
+.right-side{
+    width: 65%;
+}
+#text-5{
+    font-size: 22px;
+    color: grey;
+} 
+#text-6{
+    font-size: 50px;
+}
+#text-7{
+    color: grey;
+    font-size: 20px;
+}
+#text-8{
+    display: inline-block;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    border-radius: 31px;
+    padding: 14px;
+    color: white;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.intro-2{
+    margin-left: 187px;
+    margin-top: 180px;
+    width: 719px;
+}
+
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: tomato;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: ;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
